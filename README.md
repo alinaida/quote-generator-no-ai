@@ -1,0 +1,1 @@
+# quote-generator-no-ai
